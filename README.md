@@ -13,7 +13,6 @@ Voglio publicare i miei programmi più fighi che meritano di essere visti, e chi
 ## i linguaggi di markup che conosco:
 * Html
 * Css
-* Java script
 * Mark Down
 
 ## spammino
