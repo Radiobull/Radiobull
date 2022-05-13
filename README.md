@@ -13,7 +13,7 @@ Voglio publicare i miei programmi più fighi che meritano di essere visti, e chi
 ## i linguaggi di markup che conosco:
 * Html
 * Css
-* Mark Down
+* Markdown
 
 ## spammino
 * [Canale YouTube](https://www.youtube.com/channel/UCUfBMHSymBQztmAyr125M7w)
