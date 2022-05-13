@@ -18,4 +18,4 @@ Voglio publicare i miei programmi più fighi che meritano di essere visti, e chi
 
 ## spammino
 * [Canale YouTube](https://www.youtube.com/channel/UCUfBMHSymBQztmAyr125M7w)
-* [Server Discord](https://discord.gg/PCcMpfy6)
+* [Server Discord](https://discord.gg/7dPfGyhjAY)
