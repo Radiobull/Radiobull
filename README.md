@@ -1,5 +1,4 @@
 # Radiobull
----
 ## chi sono
 Sono un giovine studente che sta imparando vari linguaggi e ha fame di conoscenza e voglia di fare sempre più grande. mi piace anche giocare ai videogiochi, guardare film, serie tv, anime, leggere manga e acculturarmi nei vari rami della scienza.
 
