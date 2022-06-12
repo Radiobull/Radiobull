@@ -8,7 +8,7 @@ Voglio pubblicare i miei programmi più fighi che meritano di essere visti, e ch
 ## i linguaggi di programmazione che conosco:
 * C++
 * Python
-* (Un po') JavaScript
+* (Un pò) JavaScript
 
 ## i linguaggi di markup che conosco:
 * Html
