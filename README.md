@@ -10,7 +10,7 @@ Voglio pubblicare i miei programmi più fighi che meritano di essere visti, e ch
 * Python
 * (Un pò) JavaScript
 
-## i linguaggi di markup che conosco:
+## i linguaggi di markup e altro che conosco:
 * Html
 * Css
 * Markdown
